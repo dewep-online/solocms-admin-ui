@@ -6,7 +6,7 @@ import (
 	"github.com/deweppro/go-static"
 )
 
-//go:generate static ./../dist ui
+//go:generate static ./../dist/solocmsadminui ui
 
 var ui static.Reader
 
